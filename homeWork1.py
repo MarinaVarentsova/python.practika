@@ -41,7 +41,7 @@ def ugadayka(s,p):
     i = 1
     j = 1
     for i in range(1, s):
-        for j in range(i,s):
+        for j in range(i, s):
             p1 = i * j
             s1 = i + j
             if p == p1:
